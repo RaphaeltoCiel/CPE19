@@ -1,2 +1,2 @@
-# CPE19
-Nepomuceno/Lupena/Sibay
+# CPE19 UI-UX Lupena/Nepomuceno/Sibay
+Lupena/Nepomuceno/Sibay
